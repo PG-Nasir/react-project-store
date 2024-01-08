@@ -1,0 +1,210 @@
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react
+$ git init
+Initialized empty Git repository in D:/Nasir World/My Target/Full Stack Java Dev
+eloper/ReactJS/pgnasir.nu.react/.git/
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (master)
+$ git add .
+warning: in the working copy of '1/first-react-app/.eslintrc.cjs', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/.gitignore', LF will be repla
+ced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/README.md', LF will be replac
+ed by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/index.html', LF will be repla
+ced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/package-lock.json', LF will b
+e replaced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/package.json', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/src/App.css', LF will be repl
+aced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/src/App.jsx', LF will be repl
+aced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/src/index.css', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/src/main.jsx', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of '1/first-react-app/vite.config.js', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/.eslintrc.cjs', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/.gitignore', LF will be repl
+aced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/README.md', LF will be repla
+ced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/index.html', LF will be repl
+aced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/package-lock.json', LF will
+be replaced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/package.json', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/src/App.css', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/src/App.jsx', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/src/index.css', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/src/main.jsx', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '2/first-react-comp/vite.config.js', LF will be
+replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/.eslintrc.cjs', LF will be
+ replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/.gitignore', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/README.md', LF will be rep
+laced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/index.html', LF will be re
+placed by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/package-lock.json', LF wil
+l be replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/package.json', LF will be
+replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/src/App.css', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/src/App.jsx', LF will be r
+eplaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/src/index.css', LF will be
+ replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/src/main.jsx', LF will be
+replaced by CRLF the next time Git touches it
+warning: in the working copy of '3/bootstrap-learning/vite.config.js', LF will b
+e replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/.eslintrc.cjs', L
+F will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/.gitignore', LF w
+ill be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/README.md', LF wi
+ll be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/index.html', LF w
+ill be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/package-lock.json
+', LF will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/package.json', LF
+ will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/src/App.css', LF
+will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/src/App.jsx', LF
+will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/src/main.jsx', LF
+ will be replaced by CRLF the next time Git touches it
+warning: in the working copy of 'Project/TodoAppUI/todo-app-ui/vite.config.js',
+LF will be replaced by CRLF the next time Git touches it
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (master)
+$ git commit -m "react-project-store commit"
+[master (root-commit) 2e16808] react-project-store commit
+ 58 files changed, 17154 insertions(+)
+ create mode 100644 1/first-react-app/.eslintrc.cjs
+ create mode 100644 1/first-react-app/.gitignore
+ create mode 100644 1/first-react-app/README.md
+ create mode 100644 1/first-react-app/index.html
+ create mode 100644 1/first-react-app/package-lock.json
+ create mode 100644 1/first-react-app/package.json
+ create mode 100644 1/first-react-app/public/vite.svg
+ create mode 100644 1/first-react-app/src/App.css
+ create mode 100644 1/first-react-app/src/App.jsx
+ create mode 100644 1/first-react-app/src/assets/react.svg
+ create mode 100644 1/first-react-app/src/index.css
+ create mode 100644 1/first-react-app/src/main.jsx
+ create mode 100644 1/first-react-app/vite.config.js
+ create mode 100644 2/first-react-comp/.eslintrc.cjs
+ create mode 100644 2/first-react-comp/.gitignore
+ create mode 100644 2/first-react-comp/README.md
+ create mode 100644 2/first-react-comp/index.html
+ create mode 100644 2/first-react-comp/package-lock.json
+ create mode 100644 2/first-react-comp/package.json
+ create mode 100644 2/first-react-comp/public/vite.svg
+ create mode 100644 2/first-react-comp/src/App.css
+ create mode 100644 2/first-react-comp/src/App.jsx
+ create mode 100644 2/first-react-comp/src/Hello.jsx
+ create mode 100644 2/first-react-comp/src/KgButton.jsx
+ create mode 100644 2/first-react-comp/src/Random.jsx
+ create mode 100644 2/first-react-comp/src/assets/react.svg
+ create mode 100644 2/first-react-comp/src/index.css
+ create mode 100644 2/first-react-comp/src/main.jsx
+ create mode 100644 2/first-react-comp/vite.config.js
+ create mode 100644 3/bootstrap-learning/.eslintrc.cjs
+ create mode 100644 3/bootstrap-learning/.gitignore
+ create mode 100644 3/bootstrap-learning/README.md
+ create mode 100644 3/bootstrap-learning/index.html
+ create mode 100644 3/bootstrap-learning/package-lock.json
+ create mode 100644 3/bootstrap-learning/package.json
+ create mode 100644 3/bootstrap-learning/public/vite.svg
+ create mode 100644 3/bootstrap-learning/src/App.css
+ create mode 100644 3/bootstrap-learning/src/App.jsx
+ create mode 100644 3/bootstrap-learning/src/assets/react.svg
+ create mode 100644 3/bootstrap-learning/src/index.css
+ create mode 100644 3/bootstrap-learning/src/main.jsx
+ create mode 100644 3/bootstrap-learning/vite.config.js
+ create mode 100644 Project/TodoAppUI/todo-app-ui/.eslintrc.cjs
+ create mode 100644 Project/TodoAppUI/todo-app-ui/.gitignore
+ create mode 100644 Project/TodoAppUI/todo-app-ui/README.md
+ create mode 100644 Project/TodoAppUI/todo-app-ui/index.html
+ create mode 100644 Project/TodoAppUI/todo-app-ui/package-lock.json
+ create mode 100644 Project/TodoAppUI/todo-app-ui/package.json
+ create mode 100644 Project/TodoAppUI/todo-app-ui/public/vite.svg
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/App.css
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/App.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/InputData.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/TodoHeader.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/TodoList1.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/TodoList2.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/assets/react.svg
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/main.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/vite.config.js
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (master)
+$ git branch -M main
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git remote add origin git@github.com:PG-Nasir/react-project-store.git
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git push -u origin main
+Enter passphrase for key '/c/Users/MOHAMMAD NASIR/.ssh/id_ed25519':
+Enumerating objects: 51, done.
+Counting objects: 100% (51/51), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (44/44), done.
+Writing objects: 100% (51/51), 43.64 KiB | 162.00 KiB/s, done.
+Total 51 (delta 15), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (15/15), done.
+To github.com:PG-Nasir/react-project-store.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git add .
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git commit -m "react-project-store commit map method and framgment update"
+[main 503d00c] react-project-store commit map method and framgment update
+ 3 files changed, 35 insertions(+)
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/Clock.jsx
+ create mode 100644 Project/TodoAppUI/todo-app-ui/src/MapMethod.jsx
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git branch -M main
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git remote add origin git@github.com:PG-Nasir/react-project-store.git
+error: remote origin already exists.
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$ git push -u origin main
+Enter passphrase for key '/c/Users/MOHAMMAD NASIR/.ssh/id_ed25519':
+Enumerating objects: 15, done.
+Counting objects: 100% (15/15), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (7/7), done.
+Writing objects: 100% (9/9), 1.04 KiB | 1.04 MiB/s, done.
+Total 9 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+To github.com:PG-Nasir/react-project-store.git
+   2e16808..503d00c  main -> main
+branch 'main' set up to track 'origin/main'.
+
+Nasir@DESKTOP-7N83NBL MINGW64 /d/Nasir World/My Target/Full Stack Java Developer/ReactJS/pgnasir.nu.react (main)
+$
