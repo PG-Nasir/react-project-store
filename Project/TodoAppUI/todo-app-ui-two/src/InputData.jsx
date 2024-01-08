@@ -13,6 +13,7 @@ function InputData(Probs) {
             type="text"
             placeholder="Enter text"
             onChange={Probs.inputdata}
+            onKeyDown={Probs.onKeyDown}
           />
         </div>
         <div className="col-4">
