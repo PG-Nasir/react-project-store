@@ -1,0 +1,9 @@
+.itemContainer{
+    height: 50px;
+}
+.productInfoButton{
+    width: 80px;
+    height: 35px;
+    float: right;
+    margin-top: 0px;
+}

@@ -1,0 +1,11 @@
+.inputText{
+    width: 96%;
+    height: 40px;
+    border: 2px solid saddlebrown;
+    border-radius: 5px;
+    margin: 5px 5px;
+}
+
+.inputPara{
+    margin: 5px 5px;
+}
