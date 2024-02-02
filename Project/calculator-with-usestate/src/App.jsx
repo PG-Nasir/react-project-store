@@ -37,7 +37,7 @@ function App() {
   ];
   return (
     <div>
-      <div className={`${styles.calculator}`}>
+      <div classNameName={`${styles.calculator}`}>
         <Display displayText={displayText}></Display>
         <Buttons
           onButtonClick={onButtonClick}

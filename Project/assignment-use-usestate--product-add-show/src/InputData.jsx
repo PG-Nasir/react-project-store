@@ -22,9 +22,9 @@ function InputData({ inputdata }) {
   };
 
   return (
-    <div className="container">
-      <form className={`${styles.kgRow} row`} onSubmit={handleAddButton}>
-        <div className="col-4">
+    <div classNameName="container">
+      <form classNameName={`${styles.kgRow} row`} onSubmit={handleAddButton}>
+        <div classNameName="col-4">
           <input
             type="text"
             value={name}
@@ -32,17 +32,17 @@ function InputData({ inputdata }) {
             placeholder="Enter text"
           />
         </div>
-        <div className="col-4">
+        <div classNameName="col-4">
           <input
             type="date"
             value={date}
             onChange={(event) => setDateData(event)}
           />
         </div>
-        <div className="col-2">
+        <div classNameName="col-2">
           <button
             type="submit"
-            className={`${styles.kgButton} btn btn-success`}
+            classNameName={`${styles.kgButton} btn btn-success`}
           >
             <IoAddCircleSharp />
           </button>

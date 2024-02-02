@@ -7,14 +7,14 @@ let TodoList = () => {
   return (
     <>
       {tableItems.map((item) => (
-        <div className="container" key={item.name}>
-          <div className={`${styles.kgRow} row`}>
-            <div className="col-4">{item.name}</div>
-            <div className="col-4">{item.date}</div>
-            <div className="col-2">
+        <div classNameName="container" key={item.name}>
+          <div classNameName={`${styles.kgRow} row`}>
+            <div classNameName="col-4">{item.name}</div>
+            <div classNameName="col-4">{item.date}</div>
+            <div classNameName="col-2">
               <button
                 type="button"
-                className={`${styles.kgButton} btn btn-danger`}
+                classNameName={`${styles.kgButton} btn btn-danger`}
                 onClick={() => deleteItem(item.name)}
               >
                 <MdDelete />

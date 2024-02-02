@@ -6,10 +6,10 @@ let SearchDisplay = (Probs) => {
       <input
         type="text"
         onKeyDown={Probs.onKeyDown}
-        className={`${styles.inputText}`}
+        classNameName={`${styles.inputText}`}
         placeholder="Enter product name"
       />
-      <p className={`${styles.inputPara}`}>You select : {searchItem}</p>
+      <p classNameName={`${styles.inputPara}`}>You select : {searchItem}</p>
     </div>
   );
 };

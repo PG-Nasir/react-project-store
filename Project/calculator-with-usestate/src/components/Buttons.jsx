@@ -1,11 +1,11 @@
 import styles from "./Buttons.module.css";
 let Buttons = ({ buttonList, onButtonClick }) => {
   return (
-    <div className={styles.buttons}>
+    <div classNameName={styles.buttons}>
       {buttonList.map((item) => (
         <button
           onClick={() => onButtonClick(item)}
-          className={styles.buttonSize}
+          classNameName={styles.buttonSize}
         >
           {item}
         </button>

@@ -6,13 +6,13 @@ let itemShow = items.length === 0 ? false : true;
 function MapMethod() {
   return (
     <>
-      <div className="container">
+      <div classNameName="container">
         <h1>
           {" "}
           {itemShow ? "Data found" : "Not data"} Get All Division from list
           using Map Method
         </h1>{" "}
-        <ul className="list-group">
+        <ul classNameName="list-group">
           <Probs items={items}></Probs>
         </ul>
       </div>

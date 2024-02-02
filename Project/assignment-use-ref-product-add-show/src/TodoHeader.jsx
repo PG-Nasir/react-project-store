@@ -2,7 +2,7 @@ import styles from "./components/Heading.module.css";
 function TodoHeader() {
   return (
     <center>
-      <h1 className={styles.headingText}>Todo App Using useREF()</h1>
+      <h1 classNameName={styles.headingText}>Todo App Using useREF()</h1>
     </center>
   );
 }

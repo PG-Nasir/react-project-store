@@ -9,7 +9,7 @@ let ProductList = ({ productList, handleByButton }) => {
 
   return (
     <div>
-      <ul className="list-group">
+      <ul classNameName="list-group">
         {productList.map((item) => (
           <ProductInfo
             handleByButton={(even) => buyProduct(item, event)}

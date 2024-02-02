@@ -17,18 +17,18 @@ function InputData({ inputdata }) {
   };
 
   return (
-    <div className="container">
-      <form className={`${styles.kgRow} row`} onSubmit={handleAddButton}>
-        <div className="col-4">
+    <div classNameName="container">
+      <form classNameName={`${styles.kgRow} row`} onSubmit={handleAddButton}>
+        <div classNameName="col-4">
           <input type="text" ref={nameData} placeholder="Enter text" />
         </div>
-        <div className="col-4">
+        <div classNameName="col-4">
           <input type="date" ref={dateData} />
         </div>
-        <div className="col-2">
+        <div classNameName="col-2">
           <button
             type="submit"
-            className={`${styles.kgButton} btn btn-success`}
+            classNameName={`${styles.kgButton} btn btn-success`}
           >
             <IoAddCircleSharp />
           </button>

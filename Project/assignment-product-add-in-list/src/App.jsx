@@ -20,7 +20,7 @@ function App() {
   };
 
   return (
-    <div className={`${styles.productAppContainer}`}>
+    <div classNameName={`${styles.productAppContainer}`}>
       <SearchDisplay onKeyDown={takeValue}></SearchDisplay>
       <ProductList
         handleByButton={(event) => buyProduct(event)}

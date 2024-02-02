@@ -1,10 +1,10 @@
 import styles from "./Display.module.css";
 let Display = ({ displayText }) => {
   return (
-    <div className={styles.display}>
+    <div classNameName={styles.display}>
       <input
         type="text"
-        className={styles.displayText}
+        classNameName={styles.displayText}
         readOnly
         value={displayText}
       />

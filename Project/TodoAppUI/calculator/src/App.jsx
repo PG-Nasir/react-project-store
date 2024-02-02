@@ -22,7 +22,7 @@ function App() {
   ];
   return (
     <div>
-      <div className={`${styles.calculator}`}>
+      <div classNameName={`${styles.calculator}`}>
         <Display></Display>
         <Buttons buttonList={buttonList}></Buttons>
       </div>

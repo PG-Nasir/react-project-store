@@ -11,7 +11,7 @@ function App() {
     <div>
       <TodoHeader></TodoHeader>
       <InputData></InputData>
-      <div class="items-container">
+      <div className="items-container">
         <TodoList1></TodoList1>
         <TodoList2></TodoList2>
       </div>

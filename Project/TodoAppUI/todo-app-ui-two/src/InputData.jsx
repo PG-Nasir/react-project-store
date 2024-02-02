@@ -6,9 +6,9 @@ function InputData(Probs) {
   };*/
 
   return (
-    <div className="container">
-      <div className={`${styles.kgRow} row`}>
-        <div className="col-4">
+    <div classNameName="container">
+      <div classNameName={`${styles.kgRow} row`}>
+        <div classNameName="col-4">
           <input
             type="text"
             placeholder="Enter text"
@@ -16,13 +16,13 @@ function InputData(Probs) {
             onKeyDown={Probs.onKeyDown}
           />
         </div>
-        <div className="col-4">
+        <div classNameName="col-4">
           <input type="date" />
         </div>
-        <div className="col-2">
+        <div classNameName="col-2">
           <button
             type="button"
-            className={`${styles.kgButton} btn btn-success`}
+            classNameName={`${styles.kgButton} btn btn-success`}
           >
             Add
           </button>

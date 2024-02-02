@@ -4,14 +4,14 @@ let TodoList = ({ tableItems, deleteButtonHandler }) => {
   return (
     <>
       {tableItems.map((item) => (
-        <div className="container">
-          <div className={`${styles.kgRow} row`}>
-            <div className="col-4">{item.name}</div>
-            <div className="col-4">{item.date}</div>
-            <div className="col-2">
+        <div classNameName="container">
+          <div classNameName={`${styles.kgRow} row`}>
+            <div classNameName="col-4">{item.name}</div>
+            <div classNameName="col-4">{item.date}</div>
+            <div classNameName="col-2">
               <button
                 type="button"
-                className={`${styles.kgButton} btn btn-danger`}
+                classNameName={`${styles.kgButton} btn btn-danger`}
                 onClick={() => deleteButtonHandler(item.name)}
               >
                 <MdDelete />

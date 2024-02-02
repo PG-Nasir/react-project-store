@@ -1,8 +1,8 @@
 import styles from "./Display.module.css";
 let Display = () => {
   return (
-    <div className={styles.display}>
-      <input type="text" className={styles.displayText} />
+    <div classNameName={styles.display}>
+      <input type="text" classNameName={styles.displayText} />
     </div>
   );
 };

@@ -28,7 +28,7 @@ function App() {
         <p>{userdata}</p>
       </center>
       <InputData inputdata={inputdata}></InputData>
-      <div className="items-container">
+      <div classNameName="items-container">
         <TodoList
           deleteButtonHandler={deleteButtonHandler}
           tableItems={tableItems}

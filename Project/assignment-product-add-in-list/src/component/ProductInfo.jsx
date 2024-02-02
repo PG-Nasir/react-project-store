@@ -3,7 +3,7 @@ let ProductInfo = ({ item, handleByButton, bougth }) => {
   return (
     <div>
       <li
-        className={`${styles.itemContainer} list-group-item ${
+        classNameName={`${styles.itemContainer} list-group-item ${
           bougth && "active"
         } 
         }`}
@@ -11,7 +11,7 @@ let ProductInfo = ({ item, handleByButton, bougth }) => {
         {item}
         <button
           onClick={handleByButton}
-          className={`${styles.productInfoButton} btn btn-primary`}
+          classNameName={`${styles.productInfoButton} btn btn-primary`}
         >
           Buy
         </button>
